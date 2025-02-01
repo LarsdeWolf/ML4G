@@ -1,0 +1,15 @@
+torch
+torchaudio
+torchvision
+en-core-web-lg==3.4.0
+en-core-web-sm==3.7.1
+en-core-web-trf==3.5.0
+numpy==1.26.4
+pandas==2.2.2
+RapidFuzz==3.12.1
+spacy==3.4.4
+spacy-transformers==1.2.5
+coreferee==1.4.1
+coreferee-model-en==1.0.0
+tqdm==4.67.1
+tensorflow[and-cuda]==2.17.1
