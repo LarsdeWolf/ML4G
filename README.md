@@ -14,8 +14,8 @@ To get started with this project:
 conda create -n ML4Graphs python=3.9
 conda activate ML4G
 
-git  clone https://github.com/LarsdeWolf/ML4Graphs.git
-cd ML4Graphs
+git  clone https://github.com/LarsdeWolf/ML4G.git
+cd ML4G
 pip install -r requirements.txt
 ```
 
